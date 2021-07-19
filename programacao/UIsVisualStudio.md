@@ -6,6 +6,7 @@
 - [Bunifu](#bunifu)
 - [SyncFusion UI](#syncfusion)
 - [MetroUI](#metroui)
+- [Grapecity](#grapecity)
 
 <div id='guna'/>
 
@@ -19,6 +20,7 @@ Veja o Site Oficial: [gunaframework.com](https://gunaframework.com/).
 - Botões modernos;
 - Pago, e relativamente caro;
 - Disponível no NuGet;
+
 
 <div id='bunifu'/>
 
@@ -43,6 +45,7 @@ Veja o Site Oficial: [www.syncfusion.com](https://www.syncfusion.com/winforms-ui
 - Pago, e caríssimo;
 - Disponível no NuGet;
 
+
 <div id='metroui'/>
 
 ## MetroUI
@@ -53,3 +56,17 @@ Não possui site oficial (ao menos não encontrei).
 
 - Simples;
 - Gratuito (?);
+
+
+<div id='grapecity'/>
+
+## Grapecity
+
+Veja o Site Oficial: [www.grapecity.com](https://www.grapecity.com/componentone).
+
+**Características**
+
+- Multi Plataforma;
+- Pago, consideralvelmente caro;
+- Licença Vitalícia;
+
