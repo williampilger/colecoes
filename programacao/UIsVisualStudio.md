@@ -8,6 +8,9 @@
 - [MetroUI](#metroui)
 - [Grapecity](#grapecity)
 - [DevExpress](#devexpress)
+- [Infragistics](#infragistics)
+- [Teleric](#teleric)
+- 
 
 <div id='guna'/>
 
@@ -41,7 +44,7 @@ Veja o repositório: [Github/bunifu-framework](https://github.com/bunifu-framewo
 
 Veja o Site Oficial: [www.syncfusion.com](https://www.syncfusion.com/winforms-ui-controls).
 
-**Características**
+**Características**:
 
 - Pago, e caríssimo;
 - Disponível no NuGet;
@@ -53,7 +56,7 @@ Veja o Site Oficial: [www.syncfusion.com](https://www.syncfusion.com/winforms-ui
 
 Não possui site oficial (ao menos não encontrei).
 
-**Características**
+**Características**:
 
 - Simples;
 - Gratuito (?);
@@ -65,7 +68,7 @@ Não possui site oficial (ao menos não encontrei).
 
 Veja o Site Oficial: [www.grapecity.com](https://www.grapecity.com/componentone).
 
-**Características**
+**Características**:
 
 - Multi Plataforma;
 - Pago, consideralvelmente caro;
@@ -86,5 +89,34 @@ Veja o Site Oficial: [www.devexpress.com](https://www.devexpress.com/).
 - Pago, assinatura modular anual, caro;
 - Muitos recursos;
 - Aparentemente pesado (bem pesado, no caso do ASP .NET);
+- Focado em aplicações WEB e movel, embora suporte WindowsForms;
 
+
+<div id='infragistics'/>
+
+## Infragistics
+
+Veja o Site Oficial: [www.devexpress.com](https://www.devexpress.com).
+
+**Características**:
+
+- Multi plataforma;
+- Simples, interface não muito moderna;
+- Foco em apresentação de dados, tabelas, etc;
+- Pago, assinatura anual, preço considerável;
+
+
+<div id='teleric'/>
+
+## Teleric
+
+Veja o Site Oficial: [www.telerik.com](https://www.telerik.com/).
+
+**Características**:
+
+- Multi plataforma;
+- Pago anualmente, caro;
+- Centenas de componentes;
+- Foco em apresentação de dados, como gráficos, tabelas;
+- Componentes aparentemente bonitos e modernos;
 
