@@ -25,6 +25,7 @@ Veja o Site Oficial: [gunaframework.com](https://gunaframework.com/).
 ## Bunifu UI
 
 Veja o Site Oficial: [bunifuframework.com](https://bunifuframework.com/).
+Veja o repositório: [Github/bunifu-framework](https://github.com/bunifu-framework/)
 
 **Características**:
 
@@ -39,7 +40,8 @@ Veja o Site Oficial: [www.syncfusion.com](https://www.syncfusion.com/winforms-ui
 
 **Características**
 
-- pago, e caríssimo;
+- Pago, e caríssimo;
+- Disponível no NuGet;
 
 <div id='metroui'/>
 
