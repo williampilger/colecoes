@@ -7,6 +7,7 @@
 - [SyncFusion UI](#syncfusion)
 - [MetroUI](#metroui)
 - [Grapecity](#grapecity)
+- [DevExpress](#devexpress)
 
 <div id='guna'/>
 
@@ -69,4 +70,21 @@ Veja o Site Oficial: [www.grapecity.com](https://www.grapecity.com/componentone)
 - Multi Plataforma;
 - Pago, consideralvelmente caro;
 - Licença Vitalícia;
+- Centenas de componentes;
+
+
+<div id='devexpress'/>
+
+## DevExpress
+
+Veja o Site Oficial: [www.devexpress.com](https://www.devexpress.com/).
+
+**Características**
+
+- Multi Plataforma;
+- Disponível no NuGet;
+- Pago, assinatura modular anual, caro;
+- Muitos recursos;
+- Aparentemente pesado (bem pesado, no caso do ASP .NET);
+
 
