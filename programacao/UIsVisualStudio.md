@@ -116,6 +116,7 @@ Veja o Site Oficial: [www.telerik.com](https://www.telerik.com/).
 
 - Multi plataforma;
 - Pago anualmente, caro;
+- Extremamente pesado e muito instável, com base na experiência com os exemplos disponíveis no site;
 - Centenas de componentes;
 - Foco em apresentação de dados, como gráficos, tabelas;
 - Componentes aparentemente bonitos e modernos;
