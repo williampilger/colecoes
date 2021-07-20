@@ -127,8 +127,10 @@ Veja o Site Oficial: [www.telerik.com](https://www.telerik.com/).
 ## Zeroit
 
 Veja o Repositório no GitHub: [github.com/zeroitdev](https://github.com/zeroitdev/Zeroit.Framework.Button).
+Veja o pacote no NuGet: [nuget.org/packages/Zeroit.Framework.Button](https://www.nuget.org/packages/Zeroit.Framework.Button/).
 
 **Caracterósticas**
 
 - Gratuito, editável, Open Sourse;
+- Disponível no NuGet e no GitHub;
 - Vários botões e marcadores interessantes;
