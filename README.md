@@ -12,6 +12,8 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 - [Lista - Cursos sobre C++](programacao/cpp.md);
 - [Lista - Conteúdos sobre HTML e CSS](programacao/html_css.md);
 - [Lista - Conteúdos sobre PHP](programacao/php.md);
+- [Lista - Conteúdos sobre ReactJS](programacao/ReactJS.md);
+- [Lista - Conteúdos sobre Javascript](programacao/javascript.md);
 
 ## Repositórios / Programas
 
