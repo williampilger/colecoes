@@ -8,4 +8,4 @@ Listagem de conteúdos interessantes sobre React JS
 - [Desvendando o Redux na prática | Diego Fernandes](https://www.youtube.com/watch?v=u99tNt3TZf8);
 
 ## ThreeJS com React
-- [Best way to integrate PLAIN Three.js inside a React app?](https://discourse.threejs.org/t/best-way-to-integrate-plain-three-js-inside-a-react-app/27049);
+- [Best way to integrate PLAIN Three.js inside a React app?](https://discourse.threejs.org/t/best-way-to-integrate-plain-three-js-inside-a-react-app/27049) - Aparentemente não funcional;
