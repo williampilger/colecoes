@@ -2,7 +2,10 @@
 
 Listagem de conteúdos interessantes sobre React JS
 
-## Videoaulas - Youtube
+## VideoaulasGarais - Youtube
 
 - [Controlando autenticação em rotas no ReactJS | Diego Fernandes](https://www.youtube.com/watch?v=sYe4r8WXGQg);
 - [Desvendando o Redux na prática | Diego Fernandes](https://www.youtube.com/watch?v=u99tNt3TZf8);
+
+## ThreeJS com React
+- [Best way to integrate PLAIN Three.js inside a React app?](https://discourse.threejs.org/t/best-way-to-integrate-plain-three-js-inside-a-react-app/27049);
