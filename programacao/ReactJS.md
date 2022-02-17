@@ -10,3 +10,4 @@ Listagem de conteúdos interessantes sobre React JS
 ## ThreeJS com React
 - [Best way to integrate PLAIN Three.js inside a React app?](https://discourse.threejs.org/t/best-way-to-integrate-plain-three-js-inside-a-react-app/27049) - Aparentemente não funcional;
 - [Compare React with three.js and react-three-fiber](https://dev.to/0xkoji/compare-react-with-three-js-and-react-three-fiber-32ij) Ver se funciona
+- [web-ifc-three](https://github.com/IFCjs/web-ifc-three) 
