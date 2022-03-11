@@ -18,3 +18,4 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 ## Repositórios / Programas
 
 - [Lista - Projetos Interessantes](repositorios/projetosInteressantes.md)
+- [Lista - Ferramentas Úteis](softwares/ferramentas_uteis.md)
