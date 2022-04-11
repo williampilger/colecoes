@@ -4,6 +4,7 @@
 - [YOUTUBE - Callback no JavaScript](https://www.youtube.com/watch?v=0haWgdHFuJw) - Muito bom realmente.;
 - [YOUTUBE - Como usar Async/Await? Promises no JavaScript? Você NUNCA MAIS VAI ERRAR](https://www.youtube.com/watch?v=q28lfkBd9F4);
 - [YOUTUBE - Você PRECISA ENTENDER o conteúdo DESSE | Callbacks, Sincrono, Assíncrono e Event Loop no JavaScript](https://www.youtube.com/watch?v=6lbBaM18X3g);
+- [STACKOVERFLOW - Enviando requisição POST em javascript puro, sem  formulário.](https://stackoverflow.com/questions/6396101/pure-javascript-send-post-data-without-a-form);
 
 # Conteúdos sobre Javascript para mobile
 
