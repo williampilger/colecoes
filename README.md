@@ -20,3 +20,7 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 - [Lista - Projetos Interessantes](repositorios/projetosInteressantes.md)
 - [Lista - Ferramentas Úteis](softwares/ferramentas_uteis.md)
 - [Lista - Extenções Google Chrome](softwares/extencoesgoogle.md)
+
+## Utilidades Gerais
+
+- [Lista - Engenharia Reversa e Compilação](diversos/compilacaoEngenhariaReversa.md);
