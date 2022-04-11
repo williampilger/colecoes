@@ -23,4 +23,4 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 
 ## Utilidades Gerais
 
-- [Lista - Engenharia Reversa e Compilação](diversos/compilacaoEngenhariaReversa.md);
+- [Lista - Engenharia Reversa e Compilação](programacao/compilacaoEngenhariaReversa.md);
