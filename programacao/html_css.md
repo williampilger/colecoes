@@ -3,6 +3,7 @@
 ## Conteúdos interessantes
 
 - YouTube - [Minicurso Animações CSS](https://www.youtube.com/watch?v=eTELLTacg-8);
+- Outro - [Entenda o position:absolute](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-a-position-absolute-ccd07c68b32b);
 
 
 ## Sobre criação de PWS (Progressive Web Apps)
