@@ -16,3 +16,5 @@ Listagem de conteúdos interessantes sobre React JS
 ## React Redux
 
 - [Como acionar o retorno de chamada após atualizar o estado no Redux?](https://stackoverflow.com/questions/39524855/how-to-trigger-off-callback-after-updating-state-in-redux);
+- [Getting Started with Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started);
+- [React Redux Toolkit (Novo Redux)](https://www.youtube.com/watch?v=9zySeP5vH9c) - Realmente muito bom!;
