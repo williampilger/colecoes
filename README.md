@@ -14,6 +14,7 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 - [Lista - Conteúdos sobre PHP](programacao/php.md);
 - [Lista - Conteúdos sobre ReactJS](programacao/ReactJS.md);
 - [Lista - Conteúdos sobre Javascript](programacao/javascript.md);
+- [Lista - Conteúdos sobre Typescript](programacao/typescript.md);
 - [Lista - Validação de dados](programacao/validacao.md);
 
 ## Repositórios / Programas
