@@ -1,0 +1,11 @@
+# Frases
+
+Aqui jás uma coleção inútil de frases engraçadas ou úteis que reuní ao longo da longa vida.
+
+
+## Frases Desmotivacionais
+
+- `Lute como nunca, e perca como sempre!`
+
+
+ 
