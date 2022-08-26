@@ -6,6 +6,7 @@ Aqui jás uma coleção inútil de frases engraçadas ou úteis que reuní ao lo
 ## Frases Desmotivacionais
 
 - `Lute como nunca, e perca como sempre!`
+- `Você não pode mudar seu passado, mas pode estragar seu futuro!`
 
 
  
