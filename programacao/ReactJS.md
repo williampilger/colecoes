@@ -2,10 +2,11 @@
 
 Listagem de conteúdos interessantes sobre React JS
 
-## VideoaulasGarais - Youtube
+## Videoaulas Gerais - Youtube
 
 - [Controlando autenticação em rotas no ReactJS | Diego Fernandes](https://www.youtube.com/watch?v=sYe4r8WXGQg);
 - [Desvendando o Redux na prática | Diego Fernandes](https://www.youtube.com/watch?v=u99tNt3TZf8);
+- [Creating Custom Service Worker in React Apps](https://www.youtube.com/watch?v=9imIJfw8pLE);
 
 ## ThreeJS com React
 - [Best way to integrate PLAIN Three.js inside a React app?](https://discourse.threejs.org/t/best-way-to-integrate-plain-three-js-inside-a-react-app/27049) - Aparentemente não funcional;
