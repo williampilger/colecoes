@@ -9,7 +9,7 @@ Aqui jás uma coleção inútil de frases engraçadas ou úteis que reuní ao lo
 - `Você não pode mudar seu passado, mas pode estragar seu futuro!`
 - `A vida é o que acontece enquanto você perde tempo lendo essa bobagem!`
 - `Abandone antes de tentar e evite maiores frustrações.`
-- `Pense muito não. esista logo!`
+- `Pense muito não. Desista logo!`
 - `Nenhum obstáculo é grande demais pra quem desiste logo.`
 - `Seja você o protagonista do seu fracasso.`
 - `Calma, é só uma fase, logo vai piorar.`
