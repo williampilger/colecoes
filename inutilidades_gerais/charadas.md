@@ -58,3 +58,19 @@ Como o homem morreu?
 
 ********
 
+
+
+
+## O Homem que come o pato
+
+> Um homem entra no restaurante, pede um prato de Pato. Quando o garçom tras a comida, ao provar ele começa a chorar. Por que?
+
+<!--
+  HISTÓRIA COMPLETA:
+  O homem vai a um cruzeiro com sua esposa e durante a viagem o navio afunda. Todos são socorridos e são levados para uma ilha, com excessão da esposa.
+  Na ilha, é servido um prato de carne de Pato, enquanto aguardam resgate para voltar para casa.
+  Quando volta a sua cidade, ainda sem saber do paradeiro de sua esposa, o homem resolve ir a um restaurante provar um prato de carne de pato.
+  Quando prova, percebe que o sabor é totalmente diferente do provado na ilha, e se dá conta de que todos naquela refeição comeram sua esposa.
+-->
+
+********
