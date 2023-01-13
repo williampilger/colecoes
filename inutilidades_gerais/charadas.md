@@ -32,10 +32,11 @@ As charadas abaixo são o start para uma história, os que tentam resolver a cha
 
 ## Elevador/Escada chuva/sol
 
-> 
+> Um homem morava em um prédio. Sempre que chovia ele ia de elevador, quando fazia sol usava as escadas. Por que?
 
 <!--
   HISTÓRIA COMPLETA:
+  O homem era muito baixo, só alcançava o botão do elevador quando tinha um guarda-chuva.
 -->
 
 ********
