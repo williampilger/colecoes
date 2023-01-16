@@ -47,7 +47,7 @@ As charadas abaixo são o start para uma história, os que tentam resolver a cha
 
 ## Morto no quarto com uma poça de água
 
-> Um quarto, vazio. Um homem morto, uma corda e uma poça d'água.
+> Um homem morto, uma corda e uma poça d'água em um quarto.
 
 Como o homem morreu?
 
