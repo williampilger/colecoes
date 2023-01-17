@@ -18,7 +18,10 @@ Aqui jás uma coleção inútil de frases engraçadas ou úteis que reuní ao lo
 - `Não é por que tudo deu errado até agora, que vai dar certo daqui pra frente.`
 - `Nunca diga que é impossível. Diga "Eu sou imcapaz"!`
 - `Só vai dar errado se você tentar.`
-- ``
 
 
+
+## Reflexões
+
+- `Seja muito bom naquilo que você faz. Nenhum esforço de marketing ou perfil do instagram supera o talento.`
  
