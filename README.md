@@ -24,6 +24,10 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 - [Lista - Ferramentas Úteis](softwares/ferramentas_uteis.md)
 - [Lista - Extenções Google Chrome](softwares/extencoesgoogle.md)
 
+## Edição Audiovisual
+
+- [Cursos - Adobe Premiere](edicao/aulas_premiere.md)
+
 ## Utilidades Gerais
 
 - [Lista - Engenharia Reversa e Compilação](programacao/compilacaoEngenhariaReversa.md);
