@@ -7,6 +7,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [ShotCut - Ferramenta para corte de vídeo](https://shotcut.org/download/);
 - [OpenTablet Driver - Mesa digitalizadora](https://opentabletdriver.net/);
 - [SVG Optimizer - Node.JS Tool](https://github.com/svg/svgo);
+- [Reaper - Gravação e edição de audio multifaixa avançada](https://www.reaper.fm/download.php);
 
 ## Linux
 
