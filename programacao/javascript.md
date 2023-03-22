@@ -5,6 +5,7 @@
 - [YOUTUBE - Como usar Async/Await? Promises no JavaScript? Você NUNCA MAIS VAI ERRAR](https://www.youtube.com/watch?v=q28lfkBd9F4);
 - [YOUTUBE - Você PRECISA ENTENDER o conteúdo DESSE | Callbacks, Sincrono, Assíncrono e Event Loop no JavaScript](https://www.youtube.com/watch?v=6lbBaM18X3g);
 - [STACKOVERFLOW - Enviando requisição POST em javascript puro, sem  formulário.](https://stackoverflow.com/questions/6396101/pure-javascript-send-post-data-without-a-form);
+- [PAGE - Sobrecarga de funções em JS](https://javiani.wordpress.com/2010/04/17/overload-em-javascript/#:~:text=O%20que%20seria%20uma%20sobrecarga,os%20tr%C3%AAs%20ao%20mesmo%20tempo.);
 
 # Conteúdos sobre Javascript para mobile
 
