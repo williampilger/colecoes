@@ -4,6 +4,7 @@
 - [Pulsemeeter - Direcionamento de áudio](https://github.com/theRealCarneiro/pulsemeeter) - Python;
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - C++|Python;
 - [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - C#;
+- [SoundWire - Transmitir audio do PC para o celular](https://georgielabs.net/);
 
 ## Sobre
 
