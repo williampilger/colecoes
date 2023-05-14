@@ -11,6 +11,13 @@ You can findout more .onion links on [The Hidden Wiki](https://thehiddenwiki.org
 - [Secure drop](http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion/);
 - [TOR News](http://a4ygisnerpgtc5ayerl22pll6cls3oyj54qgpm7qrmb66xrxts6y3lyd.onion/index.html);
 - [Notícias da DarkWeb](http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/);
+- [Proton Mail](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/);
+- Search Engines:
+  - [Deep search](http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/);
+  - [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/);
+  - [Torch](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/);
+  - [Haystack](http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/);
+  - [Dark Search](http://darkschn4iw2hxvpv2vy2uoxwkvs2padb56t3h4wqztre6upoc5qwgid.onion/);
 
 ## Other sites
 
