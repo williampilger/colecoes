@@ -18,6 +18,9 @@ You can findout more .onion links on [The Hidden Wiki](https://thehiddenwiki.org
   - [Torch](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/);
   - [Haystack](http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/);
   - [Dark Search](http://darkschn4iw2hxvpv2vy2uoxwkvs2padb56t3h4wqztre6upoc5qwgid.onion/);
+- [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/);
+- Social Medias: 
+  - [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/auth/register);
 
 ## Other sites
 
