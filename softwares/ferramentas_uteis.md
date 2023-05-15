@@ -21,7 +21,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 ## Online
 
 - [Corte de vídeos](https://online-video-cutter.com/pt/);
-- [Universe.io - Open Source CSS components](https://uiverse.io/)/
+- [Universe.io - Open Source CSS components](https://uiverse.io/);
 
 
 ## Bootable
