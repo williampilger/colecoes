@@ -21,3 +21,8 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 ## Online
 
 - [Corte de vídeos](https://online-video-cutter.com/pt/);
+
+
+## Bootable
+
+- [Tails: Portable secure computer](https://tails.boum.org/);
