@@ -5,7 +5,7 @@
 
 
 ## Sample Repos/Code
-- [Google Cloud Storage com PHP](https://github.com/GoogleCloudPlatform/php-docs-samples);
+- [Google Cloud - PHP Samples](https://github.com/GoogleCloudPlatform/php-docs-samples);
 
 
 ## Outras Aulas
