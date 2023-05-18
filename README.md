@@ -17,6 +17,7 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 - [Lista - Conteúdos sobre Typescript](programacao/typescript.md);
 - [Lista - Validação de dados](programacao/validacao.md);
 - [Lista - Gateways de Pagamento](programacao/paymentgateways.md);
+- [Lista - Trabalhando com o Google Cloud](programacao/GoogleCloud.md);
 
 ## Repositórios / Programas
 
