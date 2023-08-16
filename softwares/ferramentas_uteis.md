@@ -18,6 +18,10 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger);
   - Flatpack install: `flatpak install flathub com.github.jeromerobert.pdfarranger`
 
+## Windows
+
+- [Ext2Fsd - Montar unidades EXT3/EXT4 no windows](https://github.com/matt-wu/Ext3Fsd);
+
 ## Online
 
 - [Corte de vídeos](https://online-video-cutter.com/pt/);
