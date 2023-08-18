@@ -2,12 +2,14 @@
 
 Lista com algumas ferramentas extremamente úteis para desktop.
 
+
 ## Multiplataforma (Offline)
 
 - [ShotCut - Ferramenta para corte de vídeo](https://shotcut.org/download/);
 - [OpenTablet Driver - Mesa digitalizadora](https://opentabletdriver.net/);
 - [SVG Optimizer - Node.JS Tool](https://github.com/svg/svgo);
 - [Reaper - Gravação e edição de audio multifaixa avançada](https://www.reaper.fm/download.php);
+
 
 ## Linux
 
@@ -18,9 +20,11 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger);
   - Flatpack install: `flatpak install flathub com.github.jeromerobert.pdfarranger`
 
+
 ## Windows
 
 - [Ext2Fsd - Montar unidades EXT3/EXT4 no windows](https://github.com/matt-wu/Ext3Fsd);
+
 
 ## Online
 
@@ -31,3 +35,20 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 ## Bootable
 
 - [Tails: Portable secure computer](https://tails.boum.org/);
+
+
+# Projetos Open Source Interessantes
+
+- [QCAD - ECAD 2D e 3D](https://github.com/qcad/qcad) - C++;
+- [Pulsemeeter - Direcionamento de áudio](https://github.com/theRealCarneiro/pulsemeeter) - Python;
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) - C++|Python;
+- [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - C#;
+- [SoundWire - Transmitir audio do PC para o celular](https://georgielabs.net/);
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys);
+
+
+## Sobre
+
+By: **will.i.am**
+
+Bom Princípio - RS - Brasil
