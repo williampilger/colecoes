@@ -5,6 +5,7 @@
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - C++|Python;
 - [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - C#;
 - [SoundWire - Transmitir audio do PC para o celular](https://georgielabs.net/);
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys);
 
 ## Sobre
 
