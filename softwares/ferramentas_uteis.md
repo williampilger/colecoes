@@ -24,6 +24,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 ## Windows
 
 - [Ext2Fsd - Montar unidades EXT3/EXT4 no windows](https://github.com/matt-wu/Ext3Fsd);
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys);
 
 
 ## Online
@@ -44,7 +45,6 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - C++|Python;
 - [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - C#;
 - [SoundWire - Transmitir audio do PC para o celular](https://georgielabs.net/);
-- [Microsoft PowerToys](https://github.com/microsoft/PowerToys);
 
 
 ## Sobre
