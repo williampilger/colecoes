@@ -21,8 +21,7 @@ Repositório criado com o intúito de criar listas de repositórios, tutoriais e
 
 ## Repositórios / Programas
 
-- [Lista - Projetos Interessantes](repositorios/projetosInteressantes.md)
-- [Lista - Ferramentas Úteis](softwares/ferramentas_uteis.md)
+- [Lista - Ferramentas Úteis e Projetos Interessantes](softwares/ferramentas_uteis.md)
 - [Lista - Extenções Google Chrome](softwares/extencoesgoogle.md)
 
 ## Edição Audiovisual
