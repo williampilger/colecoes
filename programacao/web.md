@@ -20,6 +20,7 @@
 - [PAGE - Documentação de código em JS](https://jsdoc.app/index.html);
 - [Multi-touch interaction (implementar interpretação multitoque - TouchScreen) ](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Multi-touch_interaction)
 - [Importar variáveis do SCSS no typescript](https://stackoverflow.com/questions/64206562/import-scss-variables-into-typescript-in-vue);
+- [IndexedDB, WebSQL, LocalStorage - what blocks the DOM?](https://www.youtube.com/watch?v=4FBTPSWSXuU);
 
 ## React JS
 - Gerais
