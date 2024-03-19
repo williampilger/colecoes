@@ -45,6 +45,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - C++|Python;
 - [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - C#;
 - [SoundWire - Transmitir audio do PC para o celular](https://georgielabs.net/);
+- [Barrier - Compartilhamento de Mouse e teclado entre computadores](https://github.com/debauchee/barrier);
 
 
 ## Sobre
