@@ -6,6 +6,8 @@ You can findout more .onion links on [The Hidden Wiki](https://thehiddenwiki.org
 
 **Heads-Up!! I have no tested all this pages**
 
+- Anonymous
+  - [EterSec Anonymous](http://anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/pt-br/);
 - [Onion Links](http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/);
 - [The Hiden Wiki](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/);
 - [Secure drop](http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion/);
