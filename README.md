@@ -1,6 +1,9 @@
 # Coleções
 
-Repositório criado com o intúito de criar listas de repositórios, tutoriais e conteúdos diversos.
+Repositório criado com o intuito de criar listas de repositórios, tutoriais e conteúdos diversos.
+
+## Dia-a-dia
+-[Lista - Receitas](receitas/readme.md);
 
 ## Programação
 
