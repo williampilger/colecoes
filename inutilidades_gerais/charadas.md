@@ -48,11 +48,40 @@ As charadas abaixo são o start para uma história, os que tentam resolver a cha
 
 <!--
   HISTÓRIA COMPLETA:
-  >>> Pedi para o ChatGPT, tenho que ver o desfecho.
+  O desfecho dessa charada é que o homem tinha soluços.
+  Ele entrou no bar e pediu um copo d'água para tentar se livrar dos soluços.
+  O bartender, percebendo isso, pegou uma arma e apontou para o homem para assustá-lo.
+  O susto fez os soluços do homem pararem, e por isso ele disse "obrigado" e saiu do bar.
 -->
 
 ********
 
+
+## O Carro Parado
+
+> Um homem está dirigindo seu carro à noite e de repente para em um campo. Ele sabe que está em perigo e imediatamente desliga as luzes do carro. O que está acontecendo?
+
+<!--
+  HISTÓRIA COMPLETA:
+  O homem está participando de uma guerra.
+  Ele percebe que está em uma área de bombardeio.
+  Para evitar ser detectado por aviões inimigos, ele desliga as luzes do carro.
+-->
+
+********
+
+## O Elevador Misterioso
+
+> Um homem mora no décimo andar de um prédio. Todos os dias ele pega o elevador até o térreo para ir ao trabalho. Na volta, ele só pega o elevador até o sétimo andar e sobe os últimos três andares pelas escadas. Por quê?
+
+<!--
+  HISTÓRIA COMPLETA:
+  O homem é anão.
+  Ele só consegue alcançar o botão do sétimo andar no elevador.
+  Para ir até o décimo andar, ele precisa subir os últimos três andares pelas escadas.
+-->
+
+********
 
 
 ## Morto no quarto com uma poça de água
@@ -69,6 +98,19 @@ Como o homem morreu?
 ********
 
 
+## A Cabana na Montanha
+
+> Duas pessoas entram em uma cabana na montanha em uma noite de inverno. Na manhã seguinte, apenas uma delas sai viva. O que aconteceu?
+
+<!--
+  HISTÓRIA COMPLETA:
+  As duas pessoas eram alpinistas.
+  Elas entraram na cabana para se abrigar de uma tempestade.
+  Durante a noite, uma delas morreu devido à hipotermia.
+  A outra sobreviveu e saiu da cabana na manhã seguinte para buscar ajuda.
+-->
+
+********
 
 
 ## O Homem que come o pato
