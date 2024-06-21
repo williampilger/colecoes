@@ -7,6 +7,7 @@ larga escala, e estou convertendo isso para uma escala "doméstica".
 
 O processo descrito é o mais "artesanal" possível, e leva em conta o Levain sem fermento biológico. É possível acelerar este processo consideravelmente usando `fermento biológico seco` sem mudanças consideráveis no resultado (coisa que explicarei em outra receita). 
 
+-----------------------------------------------------------------------------------------
 
 ## Ingredientes:
 
@@ -20,7 +21,7 @@ O processo descrito é o mais "artesanal" possível, e leva em conta o Levain se
 - 10 g de sal
 - 100 g de Levain ativo (preparado com antecedência)
 
-
+-----------------------------------------------------------------------------------------
 
 ## Preparação do Levain:
 
