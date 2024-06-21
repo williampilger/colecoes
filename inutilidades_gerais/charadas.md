@@ -42,6 +42,16 @@ As charadas abaixo são o start para uma história, os que tentam resolver a cha
 ********
 
 
+## O Homem que entra no bar e pede um copo d'água
+
+> Um homem entra em um bar, e pede um copo d'água, o bartender pega uma arma e aponta para o homem. O homem diz obrigado e sai do bar.
+
+<!--
+  HISTÓRIA COMPLETA:
+  >>> Pedi para o ChatGPT, tenho que ver o desfecho.
+-->
+
+********
 
 
 
