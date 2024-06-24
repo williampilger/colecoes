@@ -9,8 +9,8 @@ Esta receita deve render em torno de `1kg` de massa pronta.
 ## Ingredientes:
 
 ### Para o Levain:
-- 50 g de farinha de trigo integral
-- 50 g de água
+- `50 g` de farinha de trigo integral
+- `50 g` de água
 
 ### Para a Massa:
 - `500 g` de farinha de trigo de longa fermentação (ou farinha de trigo tipo 00)
