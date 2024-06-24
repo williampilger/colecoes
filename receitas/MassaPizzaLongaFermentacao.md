@@ -27,7 +27,10 @@ Esta receita deve render em torno de `1kg` de massa pronta.
 1. **Iniciar o Levain (7-10 dias antes):**
    - **Dia 1:** Misture 50 g de farinha de trigo integral e 50 g de água em um recipiente. Cubra com um pano e deixe em um local morno por 24 horas.
    - **Dias 2-7:** Alimente o Levain diariamente com 50 g de farinha de trigo integral e 50 g de água, descartando metade da mistura antes de alimentar novamente. Após 7-10 dias, seu Levain deve estar ativo e espumante, pronto para usar.
-  
+
+**PS**: *Pode-se adicionar Fermento Biologico Seco ao Levain (no primeiro dia), dispensando a alimentação dele por tantos dias. Neste caso é possível tê-lo pronto em dois dias.*
+
+
 ### Preparo Alternativo
 Se, por ventura, precisares que o Levain esteja pronto mais rapidamente, podes acrescentar Fermento **Biológico** Seco.
 Deste modo, reduz-se o tempo de espera para um ou dois dias.
