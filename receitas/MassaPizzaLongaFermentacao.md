@@ -1,11 +1,8 @@
 # Receita de Massa de Pizza de Longa Fermentação com Levain
 
-Esta receita estou escrevendo com base em experiências na fabricação de massas em
-larga escala, e estou convertendo isso para uma escala "doméstica".
+Receita de massa de longa fermentação para Pizzas.
 
-**ESTA RECEITA ESTÁ EM TESTES, E PODE NÃO DAR CERTO NAS PRIMEIRAS TENTATIVAS**
-
-O processo descrito é o mais "artesanal" possível, e leva em conta o Levain sem fermento biológico. É possível acelerar este processo consideravelmente usando `fermento biológico seco` sem mudanças consideráveis no resultado (coisa que explicarei em outra receita). 
+Esta receita deve render em torno de `1kg` de massa pronta.
 
 -----------------------------------------------------------------------------------------
 
@@ -16,11 +13,12 @@ O processo descrito é o mais "artesanal" possível, e leva em conta o Levain se
 - 50 g de água
 
 ### Para a Massa:
-- 500 g de farinha de trigo de longa fermentação (ou farinha de trigo tipo 00)
-- 300 ml de água gelada (se não prejudicar a mistura, pode conter gelo. A água deve ser o mais gelada possível)
-- 10 g de sal
-- 100 g de Levain ativo (preparado com antecedência)
-- xxg de Azeite de Oliva
+- `500 g` de farinha de trigo de longa fermentação (ou farinha de trigo tipo 00)
+- `300 ml` de água gelada (se não prejudicar a mistura, pode conter gelo. A água deve ser o mais gelada possível)
+- `13 g` de sal
+- `70 g` de Levain ativo (preparado com antecedência)
+- `15 ml` de Azeite de Oliva
+- OPCIONAL - `0.5` g a `1 g` de Fermento Biológico Seco
 
 -----------------------------------------------------------------------------------------
 
@@ -77,3 +75,28 @@ Deste modo, reduz-se o tempo de espera para um ou dois dias.
 ## Dicas Importantes:
 - A qualidade da farinha e a temperatura da água e da geladeira durante a fermentação pode afetar significativamente o resultado final da sua massa.
 - Certifique-se de que seu Levain esteja bem ativo antes de usá-lo na massa.
+
+
+
+
+# Sobre
+
+Este passo-a-passo foi baseado nas minhas experiências acompanhando o preparo de massas em escala industrial, baseado na receita abaixo:
+
+```txt
+• ⁠Um balde de 10L cheio de gelo, coloca água até 9,5L;
+• ⁠400g de sal;
+• ⁠15g de fermento seco;
+• ⁠15kg de farinha de longa fermentação;
+• ⁠2kg de levain;
+• ⁠420ml de azeite de oliva;
+
+Rende em torno de 27 kg de massa pronta
+```
+
+**ESTA RECEITA ESTÁ EM TESTES, E PODE NÃO DAR CERTO NAS PRIMEIRAS TENTATIVAS**
+
+O processo descrito é o mais "artesanal" possível, e leva em conta o Levain sem fermento biológico. É possível acelerar este processo consideravelmente usando `fermento biológico seco` sem mudanças consideráveis no resultado (coisa que explicarei em outra receita). 
+
+
+By: **Will.i.am**
