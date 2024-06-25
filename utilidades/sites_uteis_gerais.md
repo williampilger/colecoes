@@ -16,3 +16,11 @@
 - [NOAA - A Administração Nacional Oceânica e Atmosférica dos Estados Unidos](https://www.nesdis.noaa.gov/imagery/interactive-maps/the-world-real-time);
 - [EUMETSAT - eumetsat.int](https://view.eumetsat.int/productviewer?v=default);
 - [RealEarth - Dados gerais de satélite](https://realearth.ssec.wisc.edu/);
+
+
+
+## Sites para acompanhamento de Voos
+
+- [Consulta de Voos Registrados - ANAC](https://sas.anac.gov.br/sas/bav/view/frmConsultaVRA);
+- [FlightAware](https://www.flightaware.com/);
+- [FlightRadar24](https://www.flightradar24.com/);
