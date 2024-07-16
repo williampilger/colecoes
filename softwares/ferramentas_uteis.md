@@ -47,6 +47,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [DXF Reader / Writer](https://github.com/haplokuon/netDxf) - C#;
 - [SoundWire - Transmitir audio do PC para o celular](https://georgielabs.net/);
 - [Barrier - Compartilhamento de Mouse e teclado entre computadores](https://github.com/debauchee/barrier);
+- [GLava - Great Music Visualizer](https://github.com/jarcode-foss/glava)
 
 
 ## Sobre
