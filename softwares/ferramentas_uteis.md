@@ -9,7 +9,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [OpenTablet Driver - Mesa digitalizadora](https://opentabletdriver.net/);
 - [SVG Optimizer - Node.JS Tool](https://github.com/svg/svgo);
 - [Reaper - Gravação e edição de audio multifaixa avançada](https://www.reaper.fm/download.php);
-- [PDF-DIFF - Comparar PDFs](https://github.com/vslavik/diff-pdf/releases/tag/v0.5.2) - **Também em Projetos Open-Source**;
+- [PDF-DIFF - Comparar PDFs](https://github.com/vslavik/diff-pdf) - **Também em Projetos Open-Source**;
 
 
 ## Linux
