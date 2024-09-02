@@ -8,4 +8,5 @@
         - Contas em qualquer banco, incluindo fechadas;
         - Listas de Financiamentos;
         - Pendências com cheques;
-        - Movimentações por PIX e Câmbio de moedas;
+        - Movimentações por Câmbio de moedas;
+        - Chaves PIX cadastradas;
