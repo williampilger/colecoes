@@ -83,6 +83,8 @@
     - [Calculas dígito verificador CPF](https://www.macoratti.net/alg_cpf.htm);
 - Exemplos de **PROJETOS** de Interface
     - [Figma - Site para adoção de cachorros](https://www.figma.com/file/Jp8V73zfsUmDMBH4lM1epe/TCC---AdotPetz?type=design&mode=design);
+- THREE.js
+    - Youtube [Learn Three.js by Building 5 Projects](https://www.youtube.com/watch?v=UMqNHi1GDAE);
 
 # Sobre
 
