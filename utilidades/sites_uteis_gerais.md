@@ -24,3 +24,10 @@
 - [Consulta de Voos Registrados - ANAC](https://sas.anac.gov.br/sas/bav/view/frmConsultaVRA);
 - [FlightAware](https://www.flightaware.com/);
 - [FlightRadar24](https://www.flightradar24.com/);
+
+
+## Sites com Mapas e dados geográficos no geral
+
+- [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/);
+  - Mapas de Território, rios, lagos, costas, etc.
+  - Mapas em `.shp`, para abrir com softwares como o `Earth` ou `QGIS`.
