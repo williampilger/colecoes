@@ -30,4 +30,4 @@
 
 - [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/);
   - Mapas de Território, rios, lagos, costas, etc.
-  - Mapas em `.shp`, para abrir com softwares como o `Earth` ou `QGIS`.
+  - Mapas em `.shp`, para abrir com softwares como o `Earth` ou [QGIS](https://qgis.org/download/).
