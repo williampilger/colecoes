@@ -10,6 +10,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [SVG Optimizer - Node.JS Tool](https://github.com/svg/svgo);
 - [Reaper - Gravação e edição de audio multifaixa avançada](https://www.reaper.fm/download.php);
 - [PDF-DIFF - Comparar PDFs](https://github.com/vslavik/diff-pdf) - **Também em Projetos Open-Source**;
+- [Página de Downloads - VirtualBox](https://download.virtualbox.org/virtualbox);
 
 
 ## Linux
