@@ -34,6 +34,8 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [Corte de vídeos](https://online-video-cutter.com/pt/);
 - [Universe.io - Open Source CSS components](https://uiverse.io/);
 - [Online Stress Test](https://cpux.net/cpu-stress-test-online);
+- [WebVM - Linux on Browser](https://webvm.io/);
+  - Ambiente Linux rodando no navegador, usando recursos locais.
 
 
 ## Bootable
