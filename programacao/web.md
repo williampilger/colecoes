@@ -29,6 +29,7 @@
     - [Creating Custom Service Worker in React Apps](https://www.youtube.com/watch?v=9imIJfw8pLE);
     - [Obtendo parâmetros da URL](https://karoldabrowski.com/blog/getting-parameters-from-url-in-a-react-application/);
     - [Usando Middlewares no Redux](https://www.youtube.com/watch?v=9W0YufTfDnQ);
+    - [Drag and Drop - Lists Reorder](https://www.youtube.com/watch?v=aYZRRyukuIw);
 
 - ThreeJS com React
     - [Best way to integrate PLAIN Three.js inside a React app?](https://discourse.threejs.org/t/best-way-to-integrate-plain-three-js-inside-a-react-app/27049) - Aparentemente não funcional;
