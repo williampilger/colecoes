@@ -1,5 +1,7 @@
 # Receita de Almôndega de Frango na Airfrier
 
+![Foto da Receita](./resources/almondega_frango_airfrier.png)
+
 Reseita criada por mim, na tentativa 1.
 Com o tempo tentarei adaptá-la para melhorar o resultado.
 
