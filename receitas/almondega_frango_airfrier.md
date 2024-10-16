@@ -32,7 +32,8 @@ Resultado Obtido até o momento: *Bolinhas com aparência de pão caseiro, casqu
 
 3. **Assar**
    - Leve para a Airfrier por `30min` a `185ºC`;
-   - Após 15min, eu abri a airfrier e adicionei um pouco de azeite de oliva sobre as bolinhas, melhorou a testura delas;
+   - Após 15min, eu abri a airfrier e adicionei um pouco de azeite de oliva sobre as bolinhas, melhorou a textura delas;
+     - Talvez deixa-lás umidas com azeite dê uma crocância bem legal (testarei na próxima)   
 
 
 -----------------------------------------------------------------------------------------
