@@ -12,7 +12,7 @@ Resultado Obtido até o momento: *Bolinhas com aparência de pão caseiro, casqu
 ## Ingredientes:
 
 - `1 kg` de carne de frango moído (eu usei carne moida congelada mesmo);
-- `1/2 un` limão thaiti espremido;
+- `1/2 un` limão taiti espremido;
 - `1 un` Ovo
 - `1 col` Azeite de Oliva
 - Orégano a gosto
