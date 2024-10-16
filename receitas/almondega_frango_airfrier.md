@@ -30,7 +30,8 @@ Resultado Obtido até o momento: *Bolinhas com aparência de pão caseiro, casqu
 
 2. **Fazer as bolinhas**
    - Faça as bolinhas, de tamanho um pouco menor do que um ovo;
-   - Rolar as bolinhas na farinha de trigo e remover o excesso;
+   - Empanar as bolinhas na farinha de trigo e remover o excesso;
+     - Possivelmente não empanar vai dar uma testura OK também, vou testar uma hora.
 
 3. **Assar**
    - Leve para a Airfrier por `30min` a `185ºC`;
