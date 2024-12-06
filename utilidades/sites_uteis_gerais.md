@@ -18,6 +18,11 @@
 - [RealEarth - Dados gerais de satélite](https://realearth.ssec.wisc.edu/);
 
 
+## Dados Meteorológicos
+
+- [Earth.nullschool.net](https://earth.nullschool.net) - Imagem do Globo com Vento - Possibilidade de voltar os dias; 
+- [Windy.com](https://www.windy.com/) - Dados Meteorológicos completos (não tem dados retroativos);
+- [Ventusky](https://www.ventusky.com/) - Dados Meteorológicos completos (com dados retroativos);
 
 ## Sites para acompanhamento de Voos
 
