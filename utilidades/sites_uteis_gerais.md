@@ -23,6 +23,7 @@
 - [Earth.nullschool.net](https://earth.nullschool.net) - Imagem do Globo com Vento - Possibilidade de voltar os dias; 
 - [Windy.com](https://www.windy.com/) - Dados Meteorológicos completos (não tem dados retroativos);
 - [Ventusky](https://www.ventusky.com/) - Dados Meteorológicos completos (com dados retroativos);
+- [MSN - Mapas Microsoft](https://www.msn.com/pt-br/clima/mapas/vento) - Dados Meteorológicos completos (não há dados retroativos);
 
 ## Sites para acompanhamento de Voos
 
