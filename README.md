@@ -27,3 +27,4 @@ Repositório criado com o intuito de criar listas de repositórios, tutoriais e 
 
 - [Lista - Engenharia Reversa e Compilação](programacao/compilacaoEngenhariaReversa.md);
 - [Lista - Sites Úteis e Curiosidades Gerais](utilidades/sites_uteis_gerais.md);
+- [Lista - Logística e Transporte](utilidades/sites_logistica.md);
