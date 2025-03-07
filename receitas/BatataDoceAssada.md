@@ -14,9 +14,8 @@ Especialmente por que é dificil "testar" se esta ficando bom.
 Siga os passos abaixo:
 - Pré aqueca o forno a 250graus, aquecimento superior e inferior;
 - Coloque as batatas em uma baneja, sem necessidade de untar nem colocar nada;
-- Deixe assar por 30 minutos;
-- Baixe a temperatura para 230graus, deixe assar por mais 30 minutos;
-- Baixe a temperatura em 20graus a cada 20 minutos, por mais uma ou duas vezes;
+- Deixe assar por 10 minutos;
+- Baixe a temperatura em 20graus a cada 10 minutos, por mais uma ou duas vezes;
 - Deixe esfriar no forno fechado por uma hora;
 
 Dica: Se ficarem grudadas, deixe esfriar completamente fora do forno, ela ira soltar.
