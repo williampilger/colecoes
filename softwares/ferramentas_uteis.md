@@ -12,6 +12,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [PDF-DIFF - Comparar PDFs](https://github.com/vslavik/diff-pdf) - **Também em Projetos Open-Source**;
 - [Weylus - Transmissão de Tela](https://github.com/H-M-H/Weylus) - **Também em Projetos Open-Source**;
 - [Página de Downloads - VirtualBox](https://download.virtualbox.org/virtualbox);
+- [VisualSFM - Criação de núvem de pontos com imagens](http://ccwu.me/vsfm/);
 
 
 ## Linux
