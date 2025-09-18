@@ -81,6 +81,3 @@ finally:
 
 Quando você disser o wake word, vai aparecer um **popup de notificação** no Linux (`notify-send`).
 
----
-
-👉 Quer que eu te entregue também um **serviço systemd pronto**, para rodar isso em segundo plano sempre que ligar o PC, sem precisar abrir terminal?
