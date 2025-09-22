@@ -23,6 +23,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
   - Flatpack install: `flatpak install flathub org.cryptomator.Cryptomator`
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger);
   - Flatpack install: `flatpak install flathub com.github.jeromerobert.pdfarranger`
+- [WinBoat - Virtualizar softwares Windows](https://www.winboat.app/);
 
 
 ## Windows
