@@ -44,6 +44,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 ## Bootable
 
 - [Tails: Portable secure computer](https://tails.boum.org/);
+- [MX-Linux](https://github.com/MX-Linux/lum-qt-appimage/releases) - Criador de imagem do MX;
 
 
 # Projetos Open Source Interessantes
