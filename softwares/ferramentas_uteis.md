@@ -24,7 +24,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger);
   - Flatpack install: `flatpak install flathub com.github.jeromerobert.pdfarranger`
 - [WinBoat - Virtualizar softwares Windows](https://www.winboat.app/);
-- [ExpanDrive](https://www.expandrive.com/);
+- [ExpanDrive](https://www.expandrive.com/) - Drive Sync for Linux;
 
 
 ## Windows
