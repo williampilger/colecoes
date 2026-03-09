@@ -60,7 +60,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [GLava - Great Music Visualizer](https://github.com/jarcode-foss/glava);
 - [PDF-DIFF - Comparar PDFs](https://github.com/vslavik/diff-pdf/releases/tag/v0.5.2);
 - [Weylus - Transmissão de Tela](https://github.com/H-M-H/Weylus);
-- - [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut);
+- [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut);
 
 
 ## Sobre
