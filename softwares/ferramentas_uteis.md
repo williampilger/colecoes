@@ -13,6 +13,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [Weylus - Transmissão de Tela](https://github.com/H-M-H/Weylus) - **Também em Projetos Open-Source**;
 - [Página de Downloads - VirtualBox](https://download.virtualbox.org/virtualbox);
 - [VisualSFM - Criação de núvem de pontos com imagens](http://ccwu.me/vsfm/);
+- [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut);
 
 
 ## Linux
