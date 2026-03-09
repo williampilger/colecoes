@@ -13,7 +13,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [Weylus - Transmissão de Tela](https://github.com/H-M-H/Weylus) - **Também em Projetos Open-Source**;
 - [Página de Downloads - VirtualBox](https://download.virtualbox.org/virtualbox);
 - [VisualSFM - Criação de núvem de pontos com imagens](http://ccwu.me/vsfm/);
-- [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut);
+- [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut) - **Também em Projetos Open-Source**;
 
 
 ## Linux
@@ -60,6 +60,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [GLava - Great Music Visualizer](https://github.com/jarcode-foss/glava);
 - [PDF-DIFF - Comparar PDFs](https://github.com/vslavik/diff-pdf/releases/tag/v0.5.2);
 - [Weylus - Transmissão de Tela](https://github.com/H-M-H/Weylus);
+- - [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut);
 
 
 ## Sobre
