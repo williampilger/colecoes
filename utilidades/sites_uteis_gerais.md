@@ -40,4 +40,4 @@
  
 
 ## Outros sites aleatórios
-- [Histórico do Wayback Machine](archive.org) - Histórico da internet;
+- [Histórico do Wayback Machine](https://archive.org) - Histórico da internet;
