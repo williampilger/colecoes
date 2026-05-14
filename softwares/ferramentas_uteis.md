@@ -15,6 +15,9 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [VisualSFM - Criação de núvem de pontos com imagens](http://ccwu.me/vsfm/);
 - [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut) - **Também em Projetos Open-Source**;
 
+## Multiplataforma (standalone)
+
+- [Marktext - Markdown Viewer e editor](https://github.com/marktext);
 
 ## Linux
 
