@@ -17,7 +17,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 
 ## Multiplataforma (standalone)
 
-- [Marktext - Markdown Viewer e editor](https://github.com/marktext) - **Também em Projetos Open-Source**;
+- [Marktext - Markdown Viewer e editor](https://github.com/marktext/marktext) - **Também em Projetos Open-Source**;
 
 ## Linux
 
@@ -64,7 +64,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [PDF-DIFF - Comparar PDFs](https://github.com/vslavik/diff-pdf/releases/tag/v0.5.2);
 - [Weylus - Transmissão de Tela](https://github.com/H-M-H/Weylus);
 - [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut);
-- [Marktext - Markdown Viewer e editor](https://github.com/marktext);
+- [Marktext - Markdown Viewer e editor](https://github.com/marktext/marktext);
 
 
 ## Sobre
