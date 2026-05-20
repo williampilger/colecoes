@@ -42,3 +42,5 @@
 
 ## Outros sites aleatórios
 - [Histórico do Wayback Machine](https://archive.org) - Histórico da internet;
+- [Casa dos Dados](https://casadosdados.com.br/) - Consulta de empresas, sócios e etc.
+
