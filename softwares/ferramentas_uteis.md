@@ -14,9 +14,6 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [Página de Downloads - VirtualBox](https://download.virtualbox.org/virtualbox);
 - [VisualSFM - Criação de núvem de pontos com imagens](http://ccwu.me/vsfm/);
 - [Losslesscut - Cortar vídeos](https://github.com/mifi/lossless-cut) - **Também em Projetos Open-Source**;
-
-## Multiplataforma (standalone)
-
 - [Marktext - Markdown Viewer e editor](https://github.com/marktext/marktext) - **Também em Projetos Open-Source**;
   - Funcionamento bem precário no Windows (cracha frequentemente, existem soluções bem melhores da Microsoft Store)
 
