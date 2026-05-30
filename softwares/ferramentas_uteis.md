@@ -18,6 +18,7 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 ## Multiplataforma (standalone)
 
 - [Marktext - Markdown Viewer e editor](https://github.com/marktext/marktext) - **Também em Projetos Open-Source**;
+  - Funcionamento bem precário no Windows (cracha frequentemente, existem soluções bem melhores da Microsoft Store)
 
 ## Linux
 
@@ -44,12 +45,20 @@ Lista com algumas ferramentas extremamente úteis para desktop.
 - [Online Stress Test](https://cpux.net/cpu-stress-test-online);
 - [WebVM - Linux on Browser](https://webvm.io/);
   - Ambiente Linux rodando no navegador, usando recursos locais.
+- [Google Stitch](https://stitch.withgoogle.com/) - Criação de prototipos de tela de softwares/sites;
 
 
 ## Bootable
 
 - [Tails: Portable secure computer](https://tails.boum.org/);
 - [MX-Linux](https://github.com/MX-Linux/lum-qt-appimage/releases) - Criador de imagem do MX;
+
+
+
+## Infraestrutura
+
+- [Tailscale](https://login.tailscale.com/) - VPN Para acesso remoto, infra de rede dinâmica
+
 
 
 # Projetos Open Source Interessantes
