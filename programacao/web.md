@@ -1,5 +1,7 @@
 # Conteúdos sobre: PROGRAMAÇÂO WEB
 
+Esta página é sobre CONTEÚDOS. As [Ferramentas Úteis estão neste outro arquivo](./ferramentas_uteis.md).
+
 ## HTML e CSS
 - YouTube - [Minicurso Animações CSS](https://www.youtube.com/watch?v=eTELLTacg-8);
 - Outro - [Entenda o position:absolute](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-a-position-absolute-ccd07c68b32b);
