@@ -13,6 +13,7 @@ Repositório criado com o intuito de criar listas de repositórios, tutoriais e 
 - [Lista - Conteúdos sobre AspNET](programacao/aspNET.md);
 - [Lista - Cursos sobre C++](programacao/cpp.md);
 - [Lista - Gateways de Pagamento](programacao/paymentgateways.md);
+- [Lista - Ferramentas úteis para Programação](programacao/ferramentas_uteis.md); 
 
 ## Repositórios / Programas
 
